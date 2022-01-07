@@ -3,11 +3,14 @@ caddude42069's Search Engine favorites
 
 This tool allows you to quickly search screeners at the press of a button.
 
-Download the Chrome/Firefox extension: Search Center
+----------------------------------------------------------------------------------
+Instructions
+----------------------------------------------------------------------------------
+Download the Chrome/Firefox extension: Search Center.
 
-Open it and click on "Options"
+Open it and click on "Options".
 
-Click on "Export Engines"
+Click on "Export Engines".
 
 Copy and paste the following code and click "Import":
 
